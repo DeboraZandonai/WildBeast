@@ -1,17 +1,17 @@
 <h1 align="center">🚀 Wild Beast 🚀</h1>
 
-## 💻 Proposta do projeto
+## 💻 Project proposal
 
-WildBeast é um site totalmente responsivo desenvolvido com Grid Layout.
+WildBeast is a fully responsive website developed with Grid Layout.
 
 <h2 align=center>
-  ⭐ Prévia do projeto
+  ⭐ Project preview
 </h2>
 
 ![Badge](/github/logo.gif)
 
 <h2>
-  👨‍💻 Tecnologias utilizadas
+  👨‍💻 Technologies used
 </h2>
 
 <ul>
@@ -21,23 +21,23 @@ WildBeast é um site totalmente responsivo desenvolvido com Grid Layout.
 </ul>
 
 <h2>
-  💡 Como rodar o projeto?
+  💡 How to run the project?
 </h2>
 
-### Clone o repositório para ter uma cópia do código em sua máquina
+### Clone the repository to have a copy of the code on your machine
 
 ```bash
 $ git clone https://github.com/DeboraZandonai/WildBeast.git
 ```
 
-### Navegue até a pasta do projeto
+### Navigate to the project folder
 
 ```bash
 $ cd WildBeast
 ```
 
-## 📝 Licença
+## 📝 License
 
-Este projeto encontra-se sob a licença **MIT**. Para mais informações, acesse o arquivo **LICENSE**.
+This project is under the **MIT** license. For more information, access the file **LICENSE**.
 
 <h4 align=center>Made with ❤️ by <a href="https://www.linkedin.com/in/debora-zandonai-4ab092195/">Debora Zandonai</a></h4>
